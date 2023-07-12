@@ -1,5 +1,5 @@
 # Settings
-baseurl = "http://example.org/"
+baseurl = "https://websampah.netlify.app/"
 languageCode = "en-us"
 title = "MYGALERY"
 theme = "autophugo"
